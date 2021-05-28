@@ -1,3 +1,5 @@
 # PaintingRobot
 
-### The report I uploaded is a draft report. I think the code and the final report are in another computer, and that computer is broken. I'm asking the teammates to see if they have the original code and final report.
+It's a painting robot based on Arduino. By controlling the wheels with step motor, the robot can draw figures such as triangle, square, and circle. It supports Bluetooth mode to control. It has ultrasonic obstacle avoidance system and it also can play music with the buzzer.
+
+![alt text](https://github.com/wastelander47/PaintingRobot/blob/main/渲染标识图.jpg)
